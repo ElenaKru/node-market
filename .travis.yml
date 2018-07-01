@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "node"
+dist: trusty
+install:
+  - npm ci
+cache:
+  directories:
+    - "node_modules"  
+scripts:
+  - nmp run test
