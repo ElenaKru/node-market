@@ -23,7 +23,7 @@
     "angular-modal": "^0.5.0",
     "angular-route": "^1.6.8",
     "body-parser": "^1.18.2",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "express": "^4.16.2",
     "express-session": "^1.15.6",
     "luhn": "^2.1.0",
