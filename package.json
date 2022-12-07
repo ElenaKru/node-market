@@ -24,7 +24,7 @@
     "angular-route": "^1.6.8",
     "body-parser": "^1.18.2",
     "bootstrap": "^3.4.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "luhn": "^2.1.0",
     "md5": "^2.2.1",
